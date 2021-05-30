@@ -18,7 +18,7 @@ decrypting might be a little different than the original text.
 
 Usage:
 ------
-    $ pycipher [options]
+    $ pyciphers [options]
 
 Available options are:
     -h, --help         Show this help
@@ -31,7 +31,7 @@ More information is available at:
 - https://github.com/Yashmodi59/pycypher
 Version:
 --------
-- pycipher v1.0.0
+- pyciphers v1.0.0
 
 """
 # Standard library imports

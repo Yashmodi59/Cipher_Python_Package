@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: pycipher
-Version: 1.2.0
+Name: pyciphers
+Version: 1.0.0
 Summary: The Hill cipher Encryption algorithm is one of the symmetric key algorithms that have several advantages in data encryption.
-Home-page: https://github.com/Yashmodi59
+Home-page: https://github.com/Yashmodi59/Cipher_Python_Package
 Author: Yash Modi
 Author-email: yashmodi2059@gmail.com
 License: MIT
