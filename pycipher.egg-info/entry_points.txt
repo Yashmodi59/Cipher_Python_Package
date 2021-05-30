@@ -1,0 +1,3 @@
+[console_scripts]
+pycipher = pycipher.__main__:main
+
